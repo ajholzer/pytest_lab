@@ -7,5 +7,6 @@ def evens(n):
     arr = []
     for i in range(0, n + 1):
         if i % 2 == 0:
-            arr.append[i]
+            arr.append(i)
+        i+=1
     return arr
