@@ -1,4 +1,5 @@
 # Pytest Lab
+# Pytest lab  [![](https://github.com/ajholzer/pytest_lab/blob/master/tests/test_main.py)](https://github.com/ajholzer//actions?query=workflow%3Atests)
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 You will also walk through how to use the pytest framework for running test cases.
